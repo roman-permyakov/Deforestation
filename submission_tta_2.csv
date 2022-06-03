@@ -1,0 +1,475 @@
+image_name,tags
+test_0,clear primary water
+test_1,agriculture clear haze primary
+test_2,agriculture clear primary road water
+test_3,clear primary
+test_4,clear primary
+test_5,clear primary
+test_6,clear primary water
+test_7,clear primary water
+test_8,agriculture clear primary water
+test_9,agriculture clear primary road water
+test_10,agriculture clear primary road water
+test_11,clear primary
+test_12,clear primary
+test_13,agriculture clear primary road water
+test_14,clear primary
+test_15,agriculture clear primary
+test_16,clear primary
+test_17,clear primary
+test_18,clear primary road water
+test_19,agriculture clear partly_cloudy primary water
+test_20,agriculture clear primary
+test_21,agriculture clear primary road
+test_22,agriculture clear primary road water
+test_23,agriculture clear primary road water
+test_24,agriculture clear haze primary road
+test_25,clear primary
+test_26,clear primary
+test_27,agriculture clear primary road water
+test_28,agriculture clear primary road water
+test_29,clear primary water
+test_30,agriculture clear primary
+test_31,agriculture clear primary water
+test_32,agriculture clear primary
+test_33,agriculture clear primary
+test_34,agriculture clear primary
+test_35,clear haze primary
+test_36,agriculture clear primary road water
+test_37,clear primary road water
+test_38,agriculture clear primary road water
+test_39,agriculture clear primary road water
+test_40,clear primary water
+test_41,clear primary water
+test_42,clear primary water
+test_43,clear primary
+test_44,clear primary
+test_45,agriculture clear primary
+test_46,clear primary
+test_47,clear primary
+test_48,clear primary
+test_49,clear primary road water
+test_50,agriculture clear primary road water
+test_51,agriculture clear primary road water
+test_52,clear primary road water
+test_53,agriculture clear primary water
+test_54,agriculture clear primary
+test_55,agriculture clear primary
+test_56,clear primary
+test_57,clear primary
+test_58,clear primary
+test_59,clear primary
+test_60,agriculture clear primary
+test_61,clear primary
+test_62,clear primary road water
+test_63,clear primary road water
+test_64,agriculture clear primary water
+test_65,agriculture clear primary
+test_66,clear primary
+test_67,agriculture clear primary
+test_68,clear primary water
+test_69,agriculture clear primary
+test_70,clear primary
+test_71,agriculture clear primary
+test_72,clear primary
+test_73,agriculture clear primary
+test_74,clear primary water
+test_75,clear primary
+test_76,clear primary water
+test_77,agriculture clear primary road
+test_78,agriculture clear primary
+test_79,clear primary
+test_80,agriculture clear primary
+test_81,agriculture clear primary
+test_82,agriculture clear cultivation primary
+test_83,agriculture clear primary
+test_84,clear primary
+test_85,clear primary
+test_86,clear primary
+test_87,clear primary water
+test_88,clear cloudy primary water
+test_89,clear primary water
+test_90,agriculture clear primary
+test_91,agriculture clear primary road water
+test_92,agriculture clear primary road water
+test_93,agriculture clear primary road
+test_94,clear primary water
+test_95,clear primary
+test_96,clear primary water
+test_97,clear primary
+test_98,agriculture clear primary
+test_99,clear primary
+test_100,clear primary
+test_101,agriculture clear cultivation primary
+test_102,clear primary water
+test_103,clear primary water
+test_104,agriculture clear primary
+test_105,clear primary
+test_106,agriculture clear primary road water
+test_107,clear primary
+test_108,clear primary
+test_109,clear primary
+test_110,agriculture clear primary
+test_111,clear primary
+test_112,agriculture clear primary road
+test_113,clear primary
+test_114,clear primary
+test_115,clear primary water
+test_116,agriculture clear primary road water
+test_117,agriculture clear primary road water
+test_118,agriculture clear haze primary
+test_119,agriculture clear primary road water
+test_120,agriculture clear primary road water
+test_121,agriculture clear primary water
+test_122,clear primary water
+test_123,clear primary water
+test_124,agriculture clear primary
+test_125,agriculture clear primary road water
+test_126,agriculture clear haze primary road water
+test_127,agriculture clear primary road water
+test_128,agriculture clear haze primary road water
+test_129,agriculture clear primary road
+test_130,agriculture clear haze primary road water
+test_131,clear primary water
+test_132,clear primary
+test_133,clear primary
+test_134,clear primary road water
+test_135,clear primary
+test_136,agriculture clear cultivation primary road water
+test_137,agriculture clear primary water
+test_138,clear primary
+test_139,clear primary
+test_140,agriculture clear primary road water
+test_141,clear primary road water
+test_142,clear primary
+test_143,clear primary
+test_144,clear primary water
+test_145,clear primary
+test_146,clear primary
+test_147,clear primary water
+test_148,clear primary road
+test_149,clear primary
+test_150,clear primary
+test_151,agriculture clear haze primary road
+test_152,clear primary
+test_153,agriculture clear cultivation habitation primary road
+test_154,agriculture clear cultivation primary road water
+test_155,clear primary
+test_156,agriculture clear primary
+test_157,clear primary
+test_158,agriculture clear primary road water
+test_159,clear primary water
+test_160,agriculture clear primary road water
+test_161,clear primary water
+test_162,agriculture clear primary
+test_163,clear primary road water
+test_164,clear primary road
+test_165,clear primary road water
+test_166,clear primary
+test_167,clear primary
+test_168,clear partly_cloudy primary
+test_169,agriculture clear cultivation primary
+test_170,agriculture clear primary road water
+test_171,agriculture clear primary road
+test_172,clear primary
+test_173,agriculture clear primary
+test_174,clear primary water
+test_175,agriculture clear primary
+test_176,clear primary water
+test_177,clear primary
+test_178,clear primary water
+test_179,clear primary road water
+test_180,clear primary
+test_181,clear primary
+test_182,clear primary
+test_183,agriculture clear primary road water
+test_184,agriculture clear primary road water
+test_185,clear primary
+test_186,agriculture clear primary
+test_187,agriculture clear primary road water
+test_188,clear primary water
+test_189,clear primary water
+test_190,agriculture clear cultivation primary water
+test_191,clear primary water
+test_192,clear primary
+test_193,clear primary
+test_194,clear primary road water
+test_195,clear primary
+test_196,agriculture clear primary water
+test_197,clear primary
+test_198,clear primary
+test_199,clear primary
+test_200,clear primary
+test_201,clear primary road water
+test_202,agriculture clear primary road
+test_203,clear cloudy primary water
+test_204,clear primary
+test_205,clear primary water
+test_206,clear primary water
+test_207,clear primary
+test_208,clear primary water
+test_209,clear primary
+test_210,agriculture clear primary road water
+test_211,agriculture clear primary
+test_212,clear primary road water
+test_213,clear primary
+test_214,clear primary
+test_215,clear primary
+test_216,clear primary
+test_217,agriculture clear primary water
+test_218,clear primary water
+test_219,clear primary water
+test_220,clear primary
+test_221,agriculture clear cultivation primary
+test_222,clear primary
+test_223,clear primary
+test_224,clear cloudy primary water
+test_225,clear primary
+test_226,clear primary
+test_227,agriculture clear primary
+test_228,clear primary
+test_229,agriculture clear primary road water
+test_230,clear primary
+test_231,clear primary water
+test_232,clear primary water
+test_233,agriculture clear cultivation primary water
+test_234,agriculture clear primary road water
+test_235,agriculture clear primary road water
+test_236,agriculture clear primary
+test_237,clear primary
+test_238,clear primary
+test_239,clear primary
+test_240,clear primary
+test_241,clear primary
+test_242,clear primary water
+test_243,agriculture clear primary water
+test_244,clear primary road water
+test_245,agriculture clear primary
+test_246,agriculture clear primary road water
+test_247,agriculture clear primary road water
+test_248,agriculture clear primary
+test_249,clear primary
+test_250,clear primary water
+test_251,agriculture clear primary
+test_252,clear primary
+test_253,clear primary water
+test_254,clear primary water
+test_255,agriculture clear primary road water
+test_256,clear primary water
+test_257,agriculture clear primary road water
+test_258,agriculture clear primary road water
+test_259,clear primary water
+test_260,clear primary
+test_261,clear primary
+test_262,clear primary
+test_263,clear primary
+test_264,agriculture clear primary road
+test_265,clear primary
+test_266,clear primary
+test_267,agriculture clear primary
+test_268,agriculture clear primary
+test_269,clear haze primary
+test_270,clear primary water
+test_271,agriculture clear primary road water
+test_272,agriculture clear haze primary road water
+test_273,agriculture clear haze primary road water
+test_274,agriculture clear haze primary road water
+test_275,agriculture clear haze primary
+test_276,clear haze primary
+test_277,agriculture clear primary road water
+test_278,agriculture clear haze primary
+test_279,agriculture clear primary
+test_280,agriculture clear primary road water
+test_281,agriculture clear primary water
+test_282,clear primary water
+test_283,clear primary water
+test_284,clear primary water
+test_285,clear cloudy primary water
+test_286,agriculture clear primary
+test_287,agriculture clear primary road water
+test_288,agriculture clear primary road water
+test_289,agriculture clear primary
+test_290,clear primary
+test_291,clear primary water
+test_292,clear primary
+test_293,clear partly_cloudy primary
+test_294,agriculture clear primary
+test_295,agriculture clear primary road
+test_296,clear primary
+test_297,clear primary
+test_298,agriculture clear primary
+test_299,clear primary
+test_300,clear primary
+test_301,clear primary
+test_302,agriculture clear primary water
+test_303,agriculture clear primary road water
+test_304,clear primary water
+test_305,agriculture clear primary
+test_306,agriculture clear cultivation primary
+test_307,clear primary
+test_308,clear primary
+test_309,clear primary
+test_310,clear primary
+test_311,agriculture clear primary road water
+test_312,clear primary
+test_313,clear primary road
+test_314,clear primary
+test_315,clear primary water
+test_316,agriculture clear primary
+test_317,clear primary
+test_318,clear primary water
+test_319,clear partly_cloudy primary
+test_320,clear primary
+test_321,clear primary
+test_322,clear primary
+test_323,clear primary
+test_324,clear primary
+test_325,clear primary
+test_326,agriculture clear primary
+test_327,clear primary
+test_328,clear primary
+test_329,clear primary water
+test_330,clear primary
+test_331,clear primary water
+test_332,clear primary
+test_333,clear primary
+test_334,clear primary
+test_335,clear primary
+test_336,clear primary
+test_337,clear primary
+test_338,agriculture clear primary road water
+test_339,clear primary
+test_340,clear primary
+test_341,clear primary
+test_342,clear primary road water
+test_343,clear primary water
+test_344,agriculture clear primary
+test_345,clear primary water
+test_346,agriculture clear primary
+test_347,agriculture clear primary
+test_348,clear partly_cloudy primary
+test_349,clear primary
+test_350,clear primary
+test_351,clear primary
+test_352,clear primary
+test_353,clear primary
+test_354,clear primary road water
+test_355,agriculture clear primary
+test_356,clear primary water
+test_357,clear primary
+test_358,clear primary water
+test_359,clear primary water
+test_360,clear primary water
+test_361,clear primary
+test_362,agriculture clear primary
+test_363,clear primary
+test_364,clear primary
+test_365,agriculture clear primary
+test_366,agriculture clear primary
+test_367,agriculture clear primary
+test_368,clear primary
+test_369,agriculture clear primary road water
+test_370,agriculture clear primary
+test_371,agriculture clear primary road water
+test_372,clear primary water
+test_373,agriculture clear primary road water
+test_374,clear primary
+test_375,clear primary
+test_376,clear primary
+test_377,clear primary
+test_378,agriculture clear primary road water
+test_379,clear primary
+test_380,clear primary water
+test_381,agriculture clear primary
+test_382,agriculture clear primary
+test_383,clear primary
+test_384,agriculture clear primary water
+test_385,clear primary water
+test_386,clear primary
+test_387,agriculture clear primary road water
+test_388,agriculture clear primary road water
+test_389,agriculture clear primary
+test_390,clear primary
+test_391,agriculture clear primary
+test_392,agriculture clear primary water
+test_393,agriculture clear primary
+test_394,agriculture clear primary
+test_395,agriculture clear primary
+test_396,clear primary water
+test_397,agriculture clear primary water
+test_398,agriculture clear primary road water
+test_399,clear primary water
+test_400,clear primary water
+test_401,clear primary
+test_402,clear primary water
+test_403,clear primary water
+test_404,clear primary water
+test_405,clear primary water
+test_406,agriculture clear primary water
+test_407,clear primary water
+test_408,clear primary
+test_409,agriculture clear haze primary road
+test_410,clear primary water
+test_411,clear haze primary water
+test_412,clear primary water
+test_413,agriculture clear primary water
+test_414,agriculture clear primary
+test_415,agriculture clear primary
+test_416,agriculture clear primary road water
+test_417,clear primary
+test_418,clear primary
+test_419,clear primary road
+test_420,clear primary water
+test_421,clear cloudy primary
+test_422,clear primary water
+test_423,agriculture clear primary water
+test_424,agriculture clear primary water
+test_425,agriculture clear primary water
+test_426,clear primary
+test_427,clear primary
+test_428,agriculture clear primary
+test_429,agriculture clear primary
+test_430,agriculture clear primary road water
+test_431,clear primary
+test_432,clear primary
+test_433,clear primary
+test_434,clear primary
+test_435,clear primary road
+test_436,agriculture clear cultivation primary road water
+test_437,clear primary
+test_438,clear primary road water
+test_439,clear primary water
+test_440,clear primary water
+test_441,clear primary
+test_442,agriculture clear primary water
+test_443,clear primary water
+test_444,agriculture clear primary water
+test_445,clear primary water
+test_446,agriculture clear primary
+test_447,agriculture clear primary
+test_448,agriculture clear primary road water
+test_449,agriculture clear primary
+test_450,clear primary
+test_451,agriculture clear primary
+test_452,clear primary water
+test_453,clear primary
+test_454,clear primary
+test_455,agriculture clear primary
+test_456,clear primary
+test_457,agriculture clear primary water
+test_458,agriculture clear primary water
+test_459,agriculture clear primary water
+test_460,clear primary water
+test_461,agriculture clear cultivation primary road water
+test_462,agriculture clear primary water
+test_463,agriculture clear primary road water
+test_464,agriculture clear primary water
+test_465,clear primary water
+test_466,agriculture clear primary road water
+test_467,agriculture clear primary road water
+test_468,agriculture clear primary road water
+test_469,clear primary water
+test_470,clear primary water
+test_471,agriculture clear partly_cloudy primary
+test_472,clear primary
+test_473,clear primary
