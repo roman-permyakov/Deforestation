@@ -24,6 +24,6 @@ Dataset is available from here: https://www.kaggle.com/datasets/rhammell/planesn
 <p align="justify">This Notebook is used to train a ResNet-50 model on Amazon Planet Dataset (MultiLabel Classification Problem)
 Used Fast AI for eaiser training and inference rather than PyTorch or Tensorflow.
 
-Inspired by https://medium.com/@andrecnf
+Inspired by [@andrecnf](https://medium.com/@andrecnf)
 
 
